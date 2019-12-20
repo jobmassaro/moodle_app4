@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.itcilo.ecampusmobile" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" versionCode = "20220" version   = "3.7.2">
+<widget id="org.itcilo.ecampusmobile" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" versionCode="20220" version= "3.7.2">
 
      <name>ITCILO eCampus</name>
 
